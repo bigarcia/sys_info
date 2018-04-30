@@ -64,6 +64,6 @@ Para testar a implementação da systemcall, realizamos os seguintes passos:
     $ ./test_info
     ```
 ## Realizado pelos alunos:
-* Bianca Garcia Martins
+* Bianca Garcia Martins RA: 606723
 * Gabriel de Souza Alves
 * Giulia Mazzutti Teixeira
